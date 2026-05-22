@@ -1,0 +1,6 @@
+{
+  "name": "Road SOS",
+  "description": "An emergency road companion app for instant police/family alerts, towing, hospitals, pothole tracking, fuel locator, carpooling, and admin controls with hands-free voice support.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
